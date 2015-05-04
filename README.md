@@ -1,8 +1,6 @@
 # AnotationCodeGenerator-Android
 
-* 基于jdom，读取layout文件（xml)形式，生成符合
-
-androidAnnotaion规范的代码。*
+*基于jdom，读取layout文件（xml)形式，生成符合androidAnnotaion规范的代码。*
 
 代码包括：
 
